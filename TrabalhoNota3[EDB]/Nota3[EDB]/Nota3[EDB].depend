@@ -1,0 +1,443 @@
+# depslib dependency file v1.0
+1576028113 source:c:\users\daniel\desktop\uema\4º período\[edb]\trabalhonota3[edb]\nota3[edb]\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576026762 c:\users\daniel\desktop\uema\4º período\[edb]\trabalhonota3[edb]\nota3[edb]\main.h
+
+1575989876 source:c:\users\daniel\desktop\uema\4º período\[edb]\trabalhonota3[edb]\nota3[edb]\menu1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576027533 source:c:\users\daniel\desktop\uema\4º período\[edb]\trabalhonota3[edb]\nota3[edb]\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576020017 source:c:\users\daniel\desktop\uema\4º período\[edb]\trabalhonota3[edb]\nota3[edb]\menucliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576021758 source:c:\users\daniel\desktop\uema\4º período\[edb]\trabalhonota3[edb]\nota3[edb]\clientecod.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576021718 source:c:\users\daniel\desktop\uema\4º período\[edb]\trabalhonota3[edb]\nota3[edb]\clientestatus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576079060 source:c:\users\user\desktop\trabv4\trabalhonota3[edb]\nota3[edb]\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576081153 c:\users\user\desktop\trabv4\trabalhonota3[edb]\nota3[edb]\main.h
+	<stdbool.h>
+
+1576079940 source:c:\users\user\desktop\trabv4\trabalhonota3[edb]\nota3[edb]\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576077160 source:c:\users\user\desktop\trabv4\trabalhonota3[edb]\nota3[edb]\menu1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576078783 source:c:\users\user\desktop\trabv4\trabalhonota3[edb]\nota3[edb]\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576079060 source:c:\users\user\desktop\trabv5 integrado\trabalhonota3[edb]\nota3[edb]\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576087490 c:\users\user\desktop\trabv5 integrado\trabalhonota3[edb]\nota3[edb]\main.h
+	<stdbool.h>
+
+1576087372 source:c:\users\user\desktop\trabv5 integrado\trabalhonota3[edb]\nota3[edb]\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576077160 source:c:\users\user\desktop\trabv5 integrado\trabalhonota3[edb]\nota3[edb]\menu1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576087374 source:c:\users\user\desktop\trabv5 integrado\trabalhonota3[edb]\nota3[edb]\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576079060 source:c:\users\daniel\desktop\versions\trabv5 integrado\trabalhonota3[edb]\nota3[edb]\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576094716 c:\users\daniel\desktop\versions\trabv5 integrado\trabalhonota3[edb]\nota3[edb]\main.h
+	<stdbool.h>
+
+1576094023 source:c:\users\daniel\desktop\versions\trabv5 integrado\trabalhonota3[edb]\nota3[edb]\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576077160 source:c:\users\daniel\desktop\versions\trabv5 integrado\trabalhonota3[edb]\nota3[edb]\menu1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576094690 source:c:\users\daniel\desktop\versions\trabv5 integrado\trabalhonota3[edb]\nota3[edb]\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576079060 source:c:\users\daniel\desktop\versions\trabv6 integrado\trabalhonota3[edb]\nota3[edb]\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576099741 c:\users\daniel\desktop\versions\trabv6 integrado\trabalhonota3[edb]\nota3[edb]\main.h
+	<stdbool.h>
+
+1576097424 source:c:\users\daniel\desktop\versions\trabv6 integrado\trabalhonota3[edb]\nota3[edb]\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576077160 source:c:\users\daniel\desktop\versions\trabv6 integrado\trabalhonota3[edb]\nota3[edb]\menu1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576099823 source:c:\users\daniel\desktop\versions\trabv6 integrado\trabalhonota3[edb]\nota3[edb]\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576102709 source:c:\users\daniel\desktop\versions\trabv7 integrado[atual]\trabalhonota3[edb]\nota3[edb]\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576099741 c:\users\daniel\desktop\versions\trabv7 integrado[atual]\trabalhonota3[edb]\nota3[edb]\main.h
+	<stdbool.h>
+
+1576077160 source:c:\users\daniel\desktop\versions\trabv7 integrado[atual]\trabalhonota3[edb]\nota3[edb]\menu1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576099823 source:c:\users\daniel\desktop\versions\trabv7 integrado[atual]\trabalhonota3[edb]\nota3[edb]\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576102709 source:c:\users\daniel\desktop\versions\trabv8 integrado[atual]\trabalhonota3[edb]\nota3[edb]\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576160547 c:\users\daniel\desktop\versions\trabv8 integrado[atual]\trabalhonota3[edb]\nota3[edb]\main.h
+	<stdbool.h>
+
+1576102735 source:c:\users\daniel\desktop\versions\trabv8 integrado[atual]\trabalhonota3[edb]\nota3[edb]\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576077160 source:c:\users\daniel\desktop\versions\trabv8 integrado[atual]\trabalhonota3[edb]\nota3[edb]\menu1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576099823 source:c:\users\daniel\desktop\versions\trabv8 integrado[atual]\trabalhonota3[edb]\nota3[edb]\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576167563 source:c:\users\daniel\desktop\versions\trabv8 integrado[atual]\trabalhonota3[edb]\nota3[edb]\venda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576169524 source:c:\users\user\desktop\trabv9 integrado[atual]\trabalhonota3[edb]\nota3[edb]\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576178026 c:\users\user\desktop\trabv9 integrado[atual]\trabalhonota3[edb]\nota3[edb]\main.h
+	<stdbool.h>
+
+1576169525 source:c:\users\user\desktop\trabv9 integrado[atual]\trabalhonota3[edb]\nota3[edb]\menu1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576177939 source:c:\users\user\desktop\trabv9 integrado[atual]\trabalhonota3[edb]\nota3[edb]\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576177956 source:c:\users\user\desktop\trabv9 integrado[atual]\trabalhonota3[edb]\nota3[edb]\venda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576175895 source:c:\users\user\desktop\trabv9 integrado[atual]\trabalhonota3[edb]\nota3[edb]\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576169524 source:c:\users\daniel\desktop\versions\trabv10 integrado[atual]\trabalhonota3[edb]\nota3[edb]\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576178026 c:\users\daniel\desktop\versions\trabv10 integrado[atual]\trabalhonota3[edb]\nota3[edb]\main.h
+	<stdbool.h>
+
+1576169525 source:c:\users\daniel\desktop\versions\trabv10 integrado[atual]\trabalhonota3[edb]\nota3[edb]\menu1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576177939 source:c:\users\daniel\desktop\versions\trabv10 integrado[atual]\trabalhonota3[edb]\nota3[edb]\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576178181 source:c:\users\daniel\desktop\versions\trabv10 integrado[atual]\trabalhonota3[edb]\nota3[edb]\venda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576188839 source:c:\users\daniel\desktop\versions\trabv10 integrado[atual]\trabalhonota3[edb]\nota3[edb]\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576169524 source:c:\users\user\desktop\trabv11 integrado[atual]\trabalhonota3[edb]\nota3[edb]\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576193684 c:\users\user\desktop\trabv11 integrado[atual]\trabalhonota3[edb]\nota3[edb]\main.h
+	<stdbool.h>
+
+1576188839 source:c:\users\user\desktop\trabv11 integrado[atual]\trabalhonota3[edb]\nota3[edb]\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576169525 source:c:\users\user\desktop\trabv11 integrado[atual]\trabalhonota3[edb]\nota3[edb]\menu1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576193627 source:c:\users\user\desktop\trabv11 integrado[atual]\trabalhonota3[edb]\nota3[edb]\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576193417 source:c:\users\user\desktop\trabv11 integrado[atual]\trabalhonota3[edb]\nota3[edb]\venda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576169524 source:c:\users\daniel\desktop\versions\trabv12.10 integrado[erick]\trabalhonota3[edb]\nota3[edb]\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576193684 c:\users\daniel\desktop\versions\trabv12.10 integrado[erick]\trabalhonota3[edb]\nota3[edb]\main.h
+	<stdbool.h>
+
+1576169525 source:c:\users\daniel\desktop\versions\trabv12.10 integrado[erick]\trabalhonota3[edb]\nota3[edb]\menu1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576200082 source:c:\users\daniel\desktop\versions\trabv12.10 integrado[erick]\trabalhonota3[edb]\nota3[edb]\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576194376 source:c:\users\daniel\desktop\versions\trabv12.10 integrado[erick]\trabalhonota3[edb]\nota3[edb]\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576199887 source:c:\users\daniel\desktop\versions\trabv12.10 integrado[erick]\trabalhonota3[edb]\nota3[edb]\venda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576169524 source:c:\users\user\desktop\trabv13.10 integrado\trabalhonota3[edb]\nota3[edb]\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576193684 c:\users\user\desktop\trabv13.10 integrado\trabalhonota3[edb]\nota3[edb]\main.h
+	<stdbool.h>
+
+1576202660 source:c:\users\user\desktop\trabv13.10 integrado\trabalhonota3[edb]\nota3[edb]\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576169525 source:c:\users\user\desktop\trabv13.10 integrado\trabalhonota3[edb]\nota3[edb]\menu1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576200082 source:c:\users\user\desktop\trabv13.10 integrado\trabalhonota3[edb]\nota3[edb]\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576203406 source:c:\users\user\desktop\trabv13.10 integrado\trabalhonota3[edb]\nota3[edb]\venda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576169524 source:c:\users\user\desktop\trabv14.10[qse pronto] integrado\trabalhonota3[edb]\nota3[edb]\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576236052 c:\users\user\desktop\trabv14.10[qse pronto] integrado\trabalhonota3[edb]\nota3[edb]\main.h
+	<stdbool.h>
+
+1576236018 source:c:\users\user\desktop\trabv14.10[qse pronto] integrado\trabalhonota3[edb]\nota3[edb]\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576169525 source:c:\users\user\desktop\trabv14.10[qse pronto] integrado\trabalhonota3[edb]\nota3[edb]\menu1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576200082 source:c:\users\user\desktop\trabv14.10[qse pronto] integrado\trabalhonota3[edb]\nota3[edb]\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576236145 source:c:\users\user\desktop\trabv14.10[qse pronto] integrado\trabalhonota3[edb]\nota3[edb]\venda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576169524 source:c:\users\daniel\desktop\trab edb 3 nota[ pronto]\trabalhonota3[edb]\nota3[edb]\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576268274 c:\users\daniel\desktop\trab edb 3 nota[ pronto]\trabalhonota3[edb]\nota3[edb]\main.h
+	<stdbool.h>
+
+1576169525 source:c:\users\daniel\desktop\trab edb 3 nota[ pronto]\trabalhonota3[edb]\nota3[edb]\menu1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576200082 source:c:\users\daniel\desktop\trab edb 3 nota[ pronto]\trabalhonota3[edb]\nota3[edb]\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1576268248 source:c:\users\daniel\desktop\trab edb 3 nota[ pronto]\trabalhonota3[edb]\nota3[edb]\venda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1576267876 source:c:\users\daniel\desktop\trab edb 3 nota[ pronto]\trabalhonota3[edb]\nota3[edb]\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
